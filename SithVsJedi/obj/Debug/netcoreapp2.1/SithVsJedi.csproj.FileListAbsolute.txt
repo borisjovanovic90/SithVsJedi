@@ -1,0 +1,11 @@
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\bin\Debug\netcoreapp2.1\SithVsJedi.deps.json
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\bin\Debug\netcoreapp2.1\SithVsJedi.runtimeconfig.json
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\bin\Debug\netcoreapp2.1\SithVsJedi.runtimeconfig.dev.json
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\bin\Debug\netcoreapp2.1\SithVsJedi.dll
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\bin\Debug\netcoreapp2.1\SithVsJedi.pdb
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\obj\Debug\netcoreapp2.1\SithVsJedi.csprojAssemblyReference.cache
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\obj\Debug\netcoreapp2.1\SithVsJedi.csproj.CoreCompileInputs.cache
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\obj\Debug\netcoreapp2.1\SithVsJedi.AssemblyInfoInputs.cache
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\obj\Debug\netcoreapp2.1\SithVsJedi.AssemblyInfo.cs
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\obj\Debug\netcoreapp2.1\SithVsJedi.dll
+C:\Users\Boris\source\repos\SithVsJedi\SithVsJedi\obj\Debug\netcoreapp2.1\SithVsJedi.pdb
